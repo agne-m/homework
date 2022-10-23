@@ -1,0 +1,14 @@
+DONE
+REGISTER FORM:
+1: Padaryti 3 inputus ir viena mygtuka REGISTER
+
+PROFILE PAGE: 
+0. Sukurti ProfilePage puslapį.
+1. Padaryti, kad rodytų defaultinę nuotrauką
+2. Padaryti "CHANGE PHOTO" mygtuka
+3. Padaryti "ALL POSTS" mygtuka kuris nunaviguotų į "AllPosts" page   
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TODO:
+
